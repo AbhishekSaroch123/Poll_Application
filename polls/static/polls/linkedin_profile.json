@@ -1,0 +1,72 @@
+{
+    "name": "Abhishek Sharma",
+    "Role":"Full Stack Developer",
+    "location": "Shimla,Himachal Pradesh,India",
+    "connections":"325",
+    "Profile Languages":"English",
+    "Public Profilre & Url":"www.linkedin.com/in/abhisheksharma2505",
+    "Analytics":[
+       { "Profile Views":"111",
+        "Impressions":"1777",
+        "Search Apperance":"13"   
+    }
+    ],
+    "Resources":[
+        {
+            "Creator Mode":"Off",
+            "Creator Description":"Get discovered, showcase content on your profile, and get access to creator toolsGet discovered, showcase content on your profile, and get access to creator tools",
+            "My Network":"See and manage your connections and interests.See and manage your connections and interests."
+        }
+    ],
+    "Education":[
+       {
+         "College":"University Institute of Information and Technology, H.P.U, Shimla logo University Institute of Information and Technology, H.P.U, Shimla",
+        "Course":"Btech ECE",
+        "Time Period":"2020-2024"
+    },
+    {
+        "School":"TRDAV KANGOO",
+        "Type":"Senior Secondary",
+        "Time Period":"2018-2020",
+        "Grade":"91.8%"
+    }
+],
+"Skills":["HTML","CSS","TAILWIND CSS","JAVASCRIPT","REACT JS","MONGO DB","NODE JS","EXPRESS JS"],
+"People Also Viewed":[
+    {
+        "Name":"Aditi Negi",
+        "College":"UIT SHIMLA",
+        "Connections":"66"
+    },
+    {
+        "Name":"SAKSHI",
+        "College":"UIT SHIMLA",
+        "Connections":"66"
+    }
+],
+"People You May Viewed":[
+    {
+        "Name":"Antara Burman",
+        "Desc":"SDE AT Clever Push",
+        "Mutual Connections":"2"
+    },
+    {
+        "Name":"Ayush Gupta",
+        "Desc":"DATA Analyst | Six Sigma Certified  ",
+        "Mutual Connections":"2"
+    }
+],
+"Interests":[
+    {
+        "Name":"Nikhil Kamath",
+        "Description":"CO-Founder ZERODHA |True Beacon |Gruhas",
+        "Followers":"426,482"
+    },
+    {
+        "Name":"Kunal Shah",
+        "Description":"Founder:CRED",
+        "Followers":"1,032,672"
+    }
+]
+
+}
