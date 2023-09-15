@@ -1,91 +1,86 @@
 {
-  "name": "Abhishek Sharma",
-  "role": "Full Stack Developer",
-  "location": "Shimla,Himachal Pradesh,India",
-  "connections": "325",
-  "profile_language": "English",
-  "public_profile_url": "www.linkedin.com/in/abhisheksharma2505",
-
-  "analytics": [
-    { "profile_views": "111", "text": "Discover who's viewed your profile." },
-    {
-      "impressions": "1777",
-      "text": "CheckOut Who Is Engagig with your profile"
+    "name": "Abhishek Sharma",
+    "role": "Full Stack Developer",
+    "location": "Shimla,Himachal Pradesh,India",
+    "connections": "325",
+    "profile_language": "English",
+    "public_profile_url": "www.linkedin.com/in/abhisheksharma2505",
+    "analytics": [
+        {
+            "profile_views": "111",
+            "text": "Discover who's viewed your profile."
+        },
+        {
+            "impressions": "1777",
+            "text": "CheckOut Who Is Engagig with your profile"
+        },
+        {
+            "search_apperance": "13",
+            "text": "See Often How You Appear In Search Results"
+        }
+    ],
+    "resources": {
+        "creator_mode": "Off",
+        "creator_description": "Get discovered, showcase content on your profile, and get access to creator toolsGet discovered, showcase content on your profile, and get access to creator tools",
+        "my_network": "See and manage your connections and interests.See and manage your connections and interests."
     },
-    {
-      "search_apperance": "13",
-      "text": "See Often How You Appear In Search Results"
-    }
-  ],
-  "resources": {
-    "creator_mode": "Off",
-    "creator_description": "Get discovered, showcase content on your profile, and get access to creator toolsGet discovered, showcase content on your profile, and get access to creator tools",
-    "my_network": "See and manage your connections and interests.See and manage your connections and interests."
-  },
-  "education": [
-    {
-      "college": "University Institute of Information and Technology, H.P.U, Shimla logo University Institute of Information and Technology, H.P.U, Shimla",
-      "course": "Btech ECE",
-      "time_period": "2020-2024"
-    },
-
-    {
-      "school": "TRDAV KANGOO",
-      "type": "Senior Secondary",
-      "time_period": "2018-2020",
-      "grade": "91.8%"
-    }
-  ],
-
-  "skills": [
-    "HTML",
-    "CSS",
-    "TAILWIND CSS",
-    "JAVASCRIPT",
-    "REACT JS",
-    "MONGO DB",
-    "NODE JS",
-    "EXPRESS JS"
-  ],
-
-  "people_also_viewed": [
-    {
-      "name": "Aditi Negi",
-      "college": "UIT SHIMLA",
-      "connections": "66"
-    },
-
-    {
-      "name": "SAKSHI",
-      "college": "UIT SHIMLA",
-      "connections": "66"
-    }
-  ],
-
-  "people_you_may_viewed": [
-    {
-      "name": "Antara Burman",
-      "desc": "SDE AT Clever Push",
-      "mutual_connections": "2"
-    },
-
-    {
-      "name": "Ayush Gupta",
-      "desc": "DATA Analyst | Six Sigma Certified  ",
-      "mutual_connections": "2"
-    }
-  ],
-
-  "interests": [
-    {
-      "name": "Nikhil Kamath",
-      "description": "CO-Founder ZERODHA |True Beacon |Gruhas",
-      "followers": "426,482"
-    },
-    {
-      "name": "Kunal Shah",
-      "description": "Founder:CRED",
-      "followers": "1,032,672"
-    }
-  ]
+    "education": [
+        {
+            "college": "University Institute of Information and Technology, H.P.U, Shimla logo University Institute of Information and Technology, H.P.U, Shimla",
+            "course": "Btech ECE",
+            "time_period": "2020-2024"
+        },
+        {
+            "school": "TRDAV KANGOO",
+            "type": "Senior Secondary",
+            "time_period": "2018-2020",
+            "grade": "91.8%"
+        }
+    ],
+    "skills": [
+        "HTML",
+        "CSS",
+        "TAILWIND CSS",
+        "JAVASCRIPT",
+        "REACT JS",
+        "MONGO DB",
+        "NODE JS",
+        "EXPRESS JS"
+    ],
+    "people_also_viewed": [
+        {
+            "name": "Aditi Negi",
+            "college": "UIT SHIMLA",
+            "connections": "66"
+        },
+        {
+            "name": "SAKSHI",
+            "college": "UIT SHIMLA",
+            "connections": "66"
+        }
+    ],
+    "people_you_may_viewed": [
+        {
+            "name": "Antara Burman",
+            "desc": "SDE AT Clever Push",
+            "mutual_connections": "2"
+        },
+        {
+            "name": "Ayush Gupta",
+            "desc": "DATA Analyst | Six Sigma Certified  ",
+            "mutual_connections": "2"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Nikhil Kamath",
+            "description": "CO-Founder ZERODHA |True Beacon |Gruhas",
+            "followers": "426,482"
+        },
+        {
+            "name": "Kunal Shah",
+            "description": "Founder:CRED",
+            "followers": "1,032,672"
+        }
+    ]
 }
