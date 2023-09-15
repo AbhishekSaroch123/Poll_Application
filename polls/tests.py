@@ -4,6 +4,18 @@ from django.utils import timezone
 import datetime
 from polls.models import Question
 from django.urls import reverse
+from .fibonacci import fibonacci
+
+class FibonacciTestCase(TestCase):
+
+    def test_fibonacci(self):
+        self.assertEqual(fibonacci(0), [])
+        self.assertEqual(fibonacci(1), [0])
+        self.assertEqual(fibonacci(2), [0, 1])
+        self.assertEqual(fibonacci(5), [0, 1, 1, 2, 3])
+        self.assertEqual(fibonacci(10), [0, 1, 1, 2, 3, 5, 8, 13, 21, 34])
+        self.assertEqual(fibonacci(15), [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377])
+
 
 
 class QuestionModelTests(TestCase):
