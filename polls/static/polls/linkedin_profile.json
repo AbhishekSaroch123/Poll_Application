@@ -1,13 +1,13 @@
 {
-  "name":"Abhishek Sharma",
-  "role":"Full Stack Developer",
-  "location":"Shimla,Himachal Pradesh,India",
+  "name": "Abhishek Sharma",
+  "role": "Full Stack Developer",
+  "location": "Shimla,Himachal Pradesh,India",
   "connections": "325",
   "profile language": "English",
-  "public_profile_ url": "www.linkedin.com/in/abhisheksharma2505",
+  "public_profile_url": "www.linkedin.com/in/abhisheksharma2505",
 
   "analytics": [
-    { "profile_views": "111", "Text": "Discover who's viewed your profile." },
+    { "profile_views": "111", "text": "Discover who's viewed your profile." },
     {
       "impressions": "1777",
       "text": "CheckOut Who Is Engagig with your profile"
