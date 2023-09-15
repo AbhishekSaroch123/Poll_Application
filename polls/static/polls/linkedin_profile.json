@@ -7,37 +7,45 @@
   "public_profile_url": "www.linkedin.com/in/abhisheksharma2505",
   "analytics": [
     {
-      "profile_views": "111",
+      "value": "111",
+      "name": "Profile Views",
       "text": "Discover who's viewed your profile."
     },
     {
-      "impressions": "1777",
+      "value": "1895",
+      "name": "Post Impressions",
       "text": "Check-Out Who Is Engagig with your profile"
     },
     {
-      "search_apperance": "13",
+      "value": "13",
+      "name": "Search Appearance",
       "text": "See Often How You Appear In Search Results"
     }
   ],
-  "resources": {
-    "creator_mode": "Off",
-    "creator_description": "Get discovered, showcase content on your profile, and get access to creator toolsGet discovered, showcase content on your profile, and get access to creator tools",
-    "my_network": "See and manage your connections and interests.See and manage your connections and interests."
-  },
-  "education": [
+  "resources": [
     {
-      "bachelors": {
-        "college_name": "University Institute Of Technology",
-        "branch": "Electronics and Communication Engineering",
-        "time_period": "2020-2024"
-      }
+      "name": "Creator Mode",
+      "text": "Get discovered, showcase content on your profile, and get access to creator toolsGet discovered, showcase content on your profile, and get access to creator tools",
+      "status": "Off"
     },
     {
-      "school": {
-        "school_name": "TR.DAV.Kangoo",
-        "time_period": "20218-2020",
-        "grades": "91.8%"
-      }
+      "name": "My Network",
+      "status": "",
+      "text": "See and manage your connections and interests."
+    }
+  ],
+  "education": [
+    {
+      "name": "University Institute of Information and Technology, H.P.U, Shimla logo University Institute of Information and Technology, H.P.U, Shimla",
+      "type": "Btech ECE",
+      "time_period": "2020-2024",
+      "grade": ""
+    },
+    {
+      "name": "TRDAV KANGOO",
+      "type": "Senior Secondary",
+      "time_period": "2018-2020",
+      "grade": "91.8%"
     }
   ],
   "skills": [
