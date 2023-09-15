@@ -25,8 +25,8 @@
   "resources": [
     {
       "name": "Creator Mode",
-      "text": "Get discovered, showcase content on your profile, and get access to creator toolsGet discovered, showcase content on your profile, and get access to creator tools",
-      "status": "Off"
+      "status": "Off",
+      "text": "Get discovered, showcase content on your profile, and get access to creator toolsGet discovered, showcase content on your profile, and get access to creator tools"
     },
     {
       "name": "My Network",
@@ -70,7 +70,7 @@
       "connections": "66"
     }
   ],
-  "people_you_may_viewed": [
+  "people_you_may_know": [
     {
       "name": "Antara Burman",
       "desc": "SDE AT Clever Push",
