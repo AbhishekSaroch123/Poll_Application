@@ -36,14 +36,14 @@
   ],
   "education": [
     {
-      "name": "University Institute of Information and Technology, H.P.U, Shimla logo University Institute of Information and Technology, H.P.U, Shimla",
-      "type": "Btech ECE",
+      "educational_institute_name": "University Institute of Information and Technology, H.P.U, Shimla logo University Institute of Information and Technology, H.P.U, Shimla",
+      "educational_institute_type": "Btech ECE",
       "time_period": "2020-2024",
       "grade": ""
     },
     {
-      "name": "TRDAV KANGOO",
-      "type": "Senior Secondary",
+      "educational_institute_name": "TRDAV KANGOO",
+      "educational_institute_type": "Senior Secondary",
       "time_period": "2018-2020",
       "grade": "91.8%"
     }
